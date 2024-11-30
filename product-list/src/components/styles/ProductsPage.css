@@ -1,0 +1,40 @@
+.products-page {
+    padding: 20px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+  }
+  
+  .products-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #343a40;
+    text-align: center;
+  }
+  
+  .products-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .filters-sorting-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .filters {
+    width: 25%;
+  }
+  
+  .sorting {
+    width: 25%;
+  }
+  
+  .list-grid-toggle {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
